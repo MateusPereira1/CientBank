@@ -1,0 +1,136 @@
+/* <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+*/
+.raleway-uniquifier {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.raleway {
+  font-family: "Raleway";
+}
+
+.montserrat {
+  font-family: "Montserrat";
+}
+
+.roboto {
+  font-family: "Roboto";
+}
+
+.weigth-100 {
+  font-weight: 100;
+}
+
+.weigth-200 {
+  font-weight: 200;
+}
+
+.weigth-300 {
+  font-weight: 300;
+}
+
+.weigth-400 {
+  font-weight: 400;
+}
+
+.weigth-500 {
+  font-weight: 500;
+}
+
+.weigth-600 {
+  font-weight: 600;
+}
+
+.weigth-700 {
+  font-weight: 700;
+}
+
+.weigth-800 {
+  font-weight: 800;
+}
+
+.weigth-900 {
+  font-weight: 900;
+}
+
+.size-20 {
+  font-size: 20px;
+}
+
+.size-30 {
+  font-size: 30px;
+}
+
+.size-40 {
+  font-size: 40px;
+}
+
+.size-50 {
+  font-size: 50px;
+}
+
+.branco {
+  color: white;
+}
+
+.preto {
+  color: black;
+}
+
+.verde {
+  color: #246919;
+}
+
+.b-verde{
+  background-color: #246919;
+}
+
+.b-branco{
+  background-color: #FFF;
+}
+
+.b-preto{
+  background-color: #000;
+}
+
+.t-center {
+  text-align: center;
+}
+
+
+.flex{
+  display: flex;
+}
+
+.column{
+  flex-direction: column;
+}
+.center{
+  align-items: center;
+  justify-content: center;
+}
+
+.left{
+  align-items: center;
+  justify-content: left;
+}
+.rigth{
+  align-items: center;
+  justify-content: right;
+}
+
+
+.cta-1{
+  padding:5px 20px ;
+  border-radius: 10px;
+  
+
+  background-color: #246919;
+
+}
+
+
+
