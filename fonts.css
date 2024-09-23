@@ -99,12 +99,21 @@
 .t-center {
   text-align: center;
 }
+.t-left{
+  text-align: left;
+}
+
+.t-rigth{
+  text-align: right;
+}
 
 
 .flex{
   display: flex;
 }
-
+.wrap{
+  flex-wrap: wrap;
+}
 .column{
   flex-direction: column;
 }
@@ -126,7 +135,7 @@
 .cta-1{
   padding:5px 20px ;
   border-radius: 10px;
-  
+  width: 250px;
 
   background-color: #246919;
 
